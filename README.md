@@ -23,3 +23,4 @@ Biomes is an open source sandbox MMORPG built for the web using web technologies
 ### More
 
 - Visit https://www.biomes.gg or checkout [our official documentation](https://ill-inc.github.io/biomes-game/) for more details.
+
